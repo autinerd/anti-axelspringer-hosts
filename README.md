@@ -4,13 +4,17 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 
 ## How to install
 
-Windows:
+### Windows:
 
 - Paste the content of the file axel-springer-hosts into `%WINDIR%\System32\etc\hosts` (admin rights are neccessary)
 
-Linux:
+### Linux:
 
 - Paste the content of the file axel-springer-hosts into `/etc/hosts` (root rights are neccessary)
+
+### uBlock Origin and other adblock add-ons
+
+- Add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to the custom filter lists.
 
 ## Contributing
 
