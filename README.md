@@ -20,6 +20,10 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 
 - Install [AdAway](https://github.com/AdAway/AdAway) or similar on your phone, then add the link from [above](#ublock-origin-and-other-adblock-add-ons) to the list of hosts-files.
 
+### Pi-hole
+
+- Under Settings > Blocklists add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to your blocklists and update Gravity.
+
 ## Contributing
 
 When you find a domain which belongs to Axel Springer Verlag and it's not on the list or there is a domain which doesn't belong to Axel Springer Verlag, feel free to open an issue or do a pull request.
