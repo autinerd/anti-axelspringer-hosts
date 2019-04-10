@@ -22,7 +22,7 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 
 ### Pi-hole
 
-- Under Settings > Blocklists add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to your blocklists and update Gravity.
+- In your [Pi-hole](https://pi-hole.net/) admin interface under Settings > Blocklists add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to your blocklists and update Gravity.
 
 ## Contributing
 
