@@ -34,6 +34,10 @@ Diese Datei blockiert alle Verbindungen zu Webseiten, die entweder dem Axel Spri
 
 Wenn Sie eine Domain finden, die nicht auf der Liste ist, aber zu Axel Springer gehört oder aber eine Domain, die nicht zu Axel Springer gehört aber auf der Liste ist, öffnen Sie einfach ein Issue oder ein Pull Request.
 
+Beachten Sie, dass Domains, die auch mit "www." verfügbar sind (wie b\*\*d.de -> www.b\*\*d.de), in die Datei `www-hostnames` gehören, andere in die `hostnames`.
+
+Bei Pull Requests: Nach dem Hinzufügen von Domains bitte `python ./generate_hostfile.py` ausführen.
+
 Natürlich hilft auch ein Teilen dieser Liste an Bekannte und Freunde!
 
 # Anti Axel Springer hosts file
@@ -69,5 +73,9 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 ## Contributing
 
 When you find a domain which belongs to Axel Springer Verlag and it's not on the list or there is a domain on the list which doesn't belong to Axel Springer Verlag, feel free to open an issue or do a pull request.
+
+Please be aware, that domains which have a "www." counterpart (like b\*\*d.de -> www.b\*\*d.de) has to be in the `www-hostnames`, other domains in the `hostnames` file.
+
+For pull requests: After adding the domains, please run `python ./generate_hostfile.py`
 
 Of course sharing the list helps a lot as well!

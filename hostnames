@@ -1,0 +1,35 @@
+# This file contains host names, where the generate script ./generate_hostnames.py doensn't add a second entry with "www.".
+
+i.computer-bild.de
+vip-club.computer-bild.de
+marketing.computerbild.de
+gutscheine.computerbild.de
+static3.businessinsider.de
+static-finanzen.businessinsider.de
+static.businessinsider.de
+static1.businessinsider.de
+static2.businessinsider.de
+static4.businessinsider.de
+static5.businessinsider.de
+static6.businessinsider.de
+static.ein-herz-fuer-kinder.de
+# www.bild.de -> www.bild.de.edgekey.net -> e24152.g.akamaiedge.net
+e24152.g.akamaiedge.net
+code.bildstatic.de
+bilder.bild.de
+rem-track.bild.de
+fernsehen.welt.de
+piwik.up.welt.de
+api-co.la.welt.de
+resources-production.la.welt.de
+spr.welt.de
+i.auto-bild.de
+sportbild.bild.de
+sportdaten.sportbild.bild.de
+tmssl.akamized.net
+images.finanzen.net
+styles.finanzen.net
+c.finanzen.net
+scripts.finanzen.net
+flug.idealo.de
+springer02.webtrekk.net
