@@ -35,6 +35,8 @@
 
 0.0.0.0 bild.de
 0.0.0.0 www.bild.de
+# www.bild.de -> www.bild.de.edgekey.net -> e24152.g.akamaiedge.net
+0.0.0.0 e24152.g.akamaiedge.net.
 0.0.0.0 code.bildstatic.de
 0.0.0.0 bilder.bild.de
 0.0.0.0 rem-track.bild.de
