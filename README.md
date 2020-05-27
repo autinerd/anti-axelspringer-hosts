@@ -20,6 +20,10 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 
 - Install [AdAway](https://github.com/AdAway/AdAway) or similar on your phone, then add the link from [above](#ublock-origin-and-other-adblock-add-ons) to the list of hosts-files.
 
+### Android (without root access)
+
+- Install [Blockada](https://github.com/blokadaorg/blokada) on your phone, then add the link from [above](#ublock-origin-and-other-adblock-add-ons) to the lists in "Ad blocker"
+
 ### Pi-hole
 
 - In your [Pi-hole](https://pi-hole.net/) admin interface under Settings > Blocklists add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to your blocklists and update Gravity.
