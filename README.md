@@ -92,7 +92,7 @@ Don't forget to activate the Content Blocker for Safari
   - download [ios-adguard.txt](https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/ios-adguard.txt)
   - import this file to the User Rules
 
-#### Mit Subscription
+#### with Subscription
   - Add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to the custom filter lists.
 
 
