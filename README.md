@@ -30,6 +30,19 @@ Diese Datei blockiert alle Verbindungen zu Webseiten, die entweder dem Axel Spri
 
 - Auf der Adminoberfläche unter "Group management" > "Adlists" für den Link von [oben](#ublock-origin-und-andere-werbeblocker-addons) zu den Listen hinzu.
 
+### iOS ([AdGuard](https://apps.apple.com/de/app/adguard-adblock-privacy/id1047223162))
+
+Nicht vergesse den Content Blocker für Safari zu aktivieren
+
+#### Ohne Subscription
+  - Öffne die AdGuard settings -> Safari Protection -> User rules
+  - Lade die [ios-adguard.txt](https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/ios-adguard.txt) runter
+  - importiere diese Datei in die User Rules
+
+#### Mit Subscription
+  - Füge `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` zu den benutzerdefinierten Filterlisten hinzu
+
+
 ## Unterstützen
 
 Wenn Sie eine Domain finden, die nicht auf der Liste ist, aber zu Axel Springer gehört oder aber eine Domain, die nicht zu Axel Springer gehört aber auf der Liste ist, öffnen Sie einfach ein Issue oder ein Pull Request.
@@ -69,6 +82,19 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 ### Pi-hole
 
 - In your [Pi-hole](https://pi-hole.net/) admin interface under "Group management" > "Adlists" add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to your blocklists and update Gravity.
+
+### iOS ([AdGuard](https://apps.apple.com/de/app/adguard-adblock-privacy/id1047223162))
+
+Don't forget to activate the Content Blocker for Safari
+
+#### without subscription
+  - open the AdGuard settings -> Safari Protection -> User rules
+  - download [ios-adguard.txt](https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/ios-adguard.txt)
+  - import this file to the User Rules
+
+#### Mit Subscription
+  - Add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to the custom filter lists.
+
 
 ## Contributing
 
