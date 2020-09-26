@@ -32,7 +32,7 @@ Diese Datei blockiert alle Verbindungen zu Webseiten, die entweder dem Axel Spri
 
 ### iOS ([AdGuard](https://apps.apple.com/de/app/adguard-adblock-privacy/id1047223162))
 
-Nicht vergesse den Content Blocker für Safari zu aktivieren
+Nicht vergessen den Content Blocker für Safari zu aktivieren
 
 #### Ohne Subscription
   - Öffne die AdGuard settings -> Safari Protection -> User rules
