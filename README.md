@@ -28,7 +28,11 @@ Diese Datei blockiert alle Verbindungen zu Webseiten, die entweder dem Axel Spri
 
 ### Pi-Hole
 
-- Auf der Adminoberfläche unter "Group management" > "Adlists" für den Link von [oben](#ublock-origin-und-andere-werbeblocker-addons) zu den Listen hinzu.
+- Auf der Adminoberfläche unter "Group management" > "Adlists" füge den Link von [oben](#ublock-origin-und-andere-werbeblocker-addons) zu den Listen hinzu.
+
+### AdGuard Home
+
+- Auf der Weboberfläche unter "Filter" > "DNS-Sperrliste" > "Sperrliste hinzufügen" > "Eigene Sperrliste" den Link von [oben](#ublock-origin-und-andere-werbeblocker-addons) einfügen.
 
 ### iOS ([AdGuard](https://apps.apple.com/de/app/adguard-adblock-privacy/id1047223162))
 
@@ -82,6 +86,10 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 ### Pi-hole
 
 - In your [Pi-hole](https://pi-hole.net/) admin interface under "Group management" > "Adlists" add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to your blocklists and update Gravity.
+
+### AdGuard Home
+
+- In your AdGuard Home web interface add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` as a new blocklist at "Filter" > "DNS blocklist"
 
 ### iOS ([AdGuard](https://apps.apple.com/de/app/adguard-adblock-privacy/id1047223162))
 
