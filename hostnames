@@ -1,5 +1,6 @@
 # This file contains host names, where the generate script ./generate_hostnames.py doensn't add a second entry with "www.".
 
+jobs.bild.de
 i.computer-bild.de
 vip-club.computer-bild.de
 marketing.computerbild.de

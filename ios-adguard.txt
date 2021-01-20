@@ -173,6 +173,7 @@ zapytaj.pl
 zimbio.com
 zumi.pl
 
+jobs.bild.de
 i.computer-bild.de
 vip-club.computer-bild.de
 marketing.computerbild.de
