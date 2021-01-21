@@ -216,6 +216,8 @@
 0.0.0.0 www.metal-hammer.de
 0.0.0.0 musikexpress.de
 0.0.0.0 www.musikexpress.de
+0.0.0.0 myhomebook.de
+0.0.0.0 www.myhomebook.de
 0.0.0.0 mylittleparis.fr
 0.0.0.0 www.mylittleparis.fr
 0.0.0.0 n24.de
@@ -308,6 +310,8 @@
 0.0.0.0 www.stylebook.de
 0.0.0.0 sympatia.pl
 0.0.0.0 www.sympatia.pl
+0.0.0.0 techbook.de
+0.0.0.0 www.techbook.de
 0.0.0.0 tele.ch
 0.0.0.0 www.tele.ch
 0.0.0.0 totaljobs.com
@@ -347,6 +351,7 @@
 0.0.0.0 zumi.pl
 0.0.0.0 www.zumi.pl
 
+0.0.0.0 jobs.bild.de
 0.0.0.0 i.computer-bild.de
 0.0.0.0 vip-club.computer-bild.de
 0.0.0.0 marketing.computerbild.de
