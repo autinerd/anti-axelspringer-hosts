@@ -6,6 +6,7 @@ antenne1.de
 artcollector-magazin.de
 artinvestor.de
 as-konzerneinkauf.de
+asideas.com
 asv.de
 audiovideofotobild.de
 aufeminin.com
@@ -104,6 +105,7 @@ idealo.de
 idealo.es
 idealo.fr
 idealo.it
+ideas-engineering.io
 ikiosk.de
 irishjobs.ie
 immergruen-medien.de
@@ -251,3 +253,4 @@ flug.idealo.de
 springer02.webtrekk.net
 v.computerbild.de.dns.boreus.de
 corporate.upday.com
+gamification.upday.com
