@@ -63,7 +63,14 @@ blikk.hu
 bonial.com
 bonial.de
 bonial.fr
+businessinsider.com
+businessinsider.com.pl
 businessinsider.de
+businessinsider.es
+businessinsider.in
+businessinsider.jp
+businessinsider.mx
+businessinsider.nl
 businessinsider.pl
 bz-berlin.de
 bz.de
@@ -156,6 +163,7 @@ opineo.pl
 ozy.com
 partyguide.ch
 pclab.pl
+periodismodelmotor.com
 playpc.pl
 plejada.pl
 pme.ch
@@ -202,6 +210,7 @@ sympatia.pl
 techbook.de
 tecoloco.com
 tele.ch
+topgear.es
 totaljobs.com
 transfermarkt.de
 travelbook.de
