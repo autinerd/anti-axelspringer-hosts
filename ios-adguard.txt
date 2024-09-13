@@ -5,7 +5,9 @@ amiadogroup.com
 antenne.de
 antenne1.de
 artcollector-magazin.de
+arte-magazin.de
 artinvestor.de
+appcast.io
 as-konzerneinkauf.de
 asideas.com
 asv.de
@@ -79,10 +81,12 @@ careerjunction.co.za
 caribbeanjobs.com
 carwale.com
 casamundo.com
+caterer.com
 computerbild.de
 computerbildspiele.de
 computerhoy.com
 diedame.de
+dyn.sport
 dzienniksport.pl
 ein-herz-fuer-kinder.de
 emarketer.com
@@ -99,6 +103,7 @@ fitbook.de
 forbes.pl
 forbes.ru
 gameplanet.pl
+gehalt.de
 geo.ru
 geolenok.ru
 glamouronline.hu
@@ -108,6 +113,7 @@ gruenderszene.de
 handelszeitung.ch
 hobbyconsolas.com
 homeday.de
+hotelcareer.de
 housell.com
 hy.co
 iconist.de
@@ -158,12 +164,14 @@ nijobs.com
 noizz.pl
 ofeminin.pl
 ok-magazine.ru
+oldie-antenne.de
 onet.pl
 opineo.pl
 ozy.com
 partyguide.ch
 pclab.pl
 periodismodelmotor.com
+petbook.de
 playpc.pl
 plejada.pl
 pme.ch
@@ -194,6 +202,7 @@ skapiec.pl
 sportauto.fr
 sportbild.de
 sports.pl
+stepstonegroup.com
 stepstone.at
 stepstone.be
 stepstone.ch
@@ -210,6 +219,7 @@ sympatia.pl
 techbook.de
 tecoloco.com
 tele.ch
+thestepstonegroup.com
 topgear.es
 totaljobs.com
 transfermarkt.de
@@ -217,11 +227,13 @@ travelbook.de
 tvrhet.hu
 tvstar.ch
 umzugsauktion.de
+universumglobal.com
 upday.com
 usgang.ch
 verdykt.pl
 vod.pl
 wams.de
+webradio.de
 welt.de
 weltn24.de
 yad2.co.il

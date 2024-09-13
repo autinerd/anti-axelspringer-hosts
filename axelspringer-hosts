@@ -14,8 +14,12 @@
 0.0.0.0 www.antenne1.de
 0.0.0.0 artcollector-magazin.de
 0.0.0.0 www.artcollector-magazin.de
+0.0.0.0 arte-magazin.de
+0.0.0.0 www.arte-magazin.de
 0.0.0.0 artinvestor.de
 0.0.0.0 www.artinvestor.de
+0.0.0.0 appcast.io
+0.0.0.0 www.appcast.io
 0.0.0.0 as-konzerneinkauf.de
 0.0.0.0 www.as-konzerneinkauf.de
 0.0.0.0 asideas.com
@@ -162,6 +166,8 @@
 0.0.0.0 www.carwale.com
 0.0.0.0 casamundo.com
 0.0.0.0 www.casamundo.com
+0.0.0.0 caterer.com
+0.0.0.0 www.caterer.com
 0.0.0.0 computerbild.de
 0.0.0.0 www.computerbild.de
 0.0.0.0 computerbildspiele.de
@@ -170,6 +176,8 @@
 0.0.0.0 www.computerhoy.com
 0.0.0.0 diedame.de
 0.0.0.0 www.diedame.de
+0.0.0.0 dyn.sport
+0.0.0.0 www.dyn.sport
 0.0.0.0 dzienniksport.pl
 0.0.0.0 www.dzienniksport.pl
 0.0.0.0 ein-herz-fuer-kinder.de
@@ -202,6 +210,8 @@
 0.0.0.0 www.forbes.ru
 0.0.0.0 gameplanet.pl
 0.0.0.0 www.gameplanet.pl
+0.0.0.0 gehalt.de
+0.0.0.0 www.gehalt.de
 0.0.0.0 geo.ru
 0.0.0.0 www.geo.ru
 0.0.0.0 geolenok.ru
@@ -220,6 +230,8 @@
 0.0.0.0 www.hobbyconsolas.com
 0.0.0.0 homeday.de
 0.0.0.0 www.homeday.de
+0.0.0.0 hotelcareer.de
+0.0.0.0 www.hotelcareer.de
 0.0.0.0 housell.com
 0.0.0.0 www.housell.com
 0.0.0.0 hy.co
@@ -320,6 +332,8 @@
 0.0.0.0 www.ofeminin.pl
 0.0.0.0 ok-magazine.ru
 0.0.0.0 www.ok-magazine.ru
+0.0.0.0 oldie-antenne.de
+0.0.0.0 www.oldie-antenne.de
 0.0.0.0 onet.pl
 0.0.0.0 www.onet.pl
 0.0.0.0 opineo.pl
@@ -332,6 +346,8 @@
 0.0.0.0 www.pclab.pl
 0.0.0.0 periodismodelmotor.com
 0.0.0.0 www.periodismodelmotor.com
+0.0.0.0 petbook.de
+0.0.0.0 www.petbook.de
 0.0.0.0 playpc.pl
 0.0.0.0 www.playpc.pl
 0.0.0.0 plejada.pl
@@ -392,6 +408,8 @@
 0.0.0.0 www.sportbild.de
 0.0.0.0 sports.pl
 0.0.0.0 www.sports.pl
+0.0.0.0 stepstonegroup.com
+0.0.0.0 www.stepstonegroup.com
 0.0.0.0 stepstone.at
 0.0.0.0 www.stepstone.at
 0.0.0.0 stepstone.be
@@ -424,6 +442,8 @@
 0.0.0.0 www.tecoloco.com
 0.0.0.0 tele.ch
 0.0.0.0 www.tele.ch
+0.0.0.0 thestepstonegroup.com
+0.0.0.0 www.thestepstonegroup.com
 0.0.0.0 topgear.es
 0.0.0.0 www.topgear.es
 0.0.0.0 totaljobs.com
@@ -438,6 +458,8 @@
 0.0.0.0 www.tvstar.ch
 0.0.0.0 umzugsauktion.de
 0.0.0.0 www.umzugsauktion.de
+0.0.0.0 universumglobal.com
+0.0.0.0 www.universumglobal.com
 0.0.0.0 upday.com
 0.0.0.0 www.upday.com
 0.0.0.0 usgang.ch
@@ -448,6 +470,8 @@
 0.0.0.0 www.vod.pl
 0.0.0.0 wams.de
 0.0.0.0 www.wams.de
+0.0.0.0 webradio.de
+0.0.0.0 www.webradio.de
 0.0.0.0 welt.de
 0.0.0.0 www.welt.de
 0.0.0.0 weltn24.de
