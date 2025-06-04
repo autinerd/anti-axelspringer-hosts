@@ -44,6 +44,7 @@ autoweek.nl
 avfbild.de
 aviv-group.com
 awin.com
+awin1.com
 axel-springer-akademie.de
 axelspringer-neubau.de
 axelspringer-syndication.de
@@ -65,6 +66,8 @@ blikk.hu
 bonial.com
 bonial.de
 bonial.fr
+bonial.biz
+bonial.global
 businessinsider.com
 businessinsider.com.pl
 businessinsider.de
@@ -118,6 +121,8 @@ hy.co
 iconist.de
 idealo.at
 idealo.co.uk
+idealo.com
+idealo.net
 idealo.de
 idealo.es
 idealo.fr
@@ -308,3 +313,5 @@ springer02.webtrekk.net
 v.computerbild.de.dns.boreus.de
 corporate.upday.com
 gamification.upday.com
+
+
