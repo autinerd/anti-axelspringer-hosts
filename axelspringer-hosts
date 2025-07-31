@@ -106,6 +106,8 @@
 0.0.0.0 www.aviv-group.com
 0.0.0.0 awin.com
 0.0.0.0 www.awin.com
+0.0.0.0 awin1.com
+0.0.0.0 www.awin1.com
 0.0.0.0 axel-springer-ag.de
 0.0.0.0 www.axel-springer-ag.de
 0.0.0.0 axel-springer-akademie.de
@@ -228,12 +230,16 @@
 0.0.0.0 www.blic.rs
 0.0.0.0 blikk.hu
 0.0.0.0 www.blikk.hu
+0.0.0.0 bonial.biz
+0.0.0.0 www.bonial.biz
 0.0.0.0 bonial.com
 0.0.0.0 www.bonial.com
 0.0.0.0 bonial.de
 0.0.0.0 www.bonial.de
 0.0.0.0 bonial.fr
 0.0.0.0 www.bonial.fr
+0.0.0.0 bonial.global
+0.0.0.0 www.bonial.global
 0.0.0.0 businessinsider.com
 0.0.0.0 www.businessinsider.com
 0.0.0.0 businessinsider.com.pl
@@ -378,6 +384,8 @@
 0.0.0.0 www.idealo.at
 0.0.0.0 idealo.co.uk
 0.0.0.0 www.idealo.co.uk
+0.0.0.0 idealo.com
+0.0.0.0 www.idealo.com
 0.0.0.0 idealo.de
 0.0.0.0 www.idealo.de
 0.0.0.0 idealo.es
@@ -386,6 +394,8 @@
 0.0.0.0 www.idealo.fr
 0.0.0.0 idealo.it
 0.0.0.0 www.idealo.it
+0.0.0.0 idealo.net
+0.0.0.0 www.idealo.net
 0.0.0.0 ideas-engineering.io
 0.0.0.0 www.ideas-engineering.io
 0.0.0.0 ifa-tipp.de
