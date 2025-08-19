@@ -855,6 +855,7 @@ apps.as-infra.de
 as-datenschutz.axelspringer.de
 ascs.woodwing.axelspringer.de
 autotip.auto.cz
+backend.mediaimpact.de
 belegversand.regionalvermarktung.axelspringer.de
 bilder.bild.de
 blog.spring-media.de
@@ -950,6 +951,9 @@ swerve.autobild.de
 swerve.bild.de
 teams.axelspringer.de
 tmssl.akamized.net
+trackingapi.bonial.fr
+trackingapi.kaufda.de
+trackingapi.meinprospekt.de
 transfer.asit.services
 transfer.axelspringer.de
 tv.welt.de
@@ -962,4 +966,3 @@ weltfwstage.axelspringer.de
 ws-secure-cons.axelspringer.de
 ws-secure-uat.axelspringer.de
 ws-secure.axelspringer.de
-backend.mediaimpact.de

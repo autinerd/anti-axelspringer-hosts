@@ -1626,6 +1626,7 @@
 0.0.0.0 as-datenschutz.axelspringer.de
 0.0.0.0 ascs.woodwing.axelspringer.de
 0.0.0.0 autotip.auto.cz
+0.0.0.0 backend.mediaimpact.de
 0.0.0.0 belegversand.regionalvermarktung.axelspringer.de
 0.0.0.0 bilder.bild.de
 0.0.0.0 blog.spring-media.de
@@ -1721,6 +1722,9 @@
 0.0.0.0 swerve.bild.de
 0.0.0.0 teams.axelspringer.de
 0.0.0.0 tmssl.akamized.net
+0.0.0.0 trackingapi.bonial.fr
+0.0.0.0 trackingapi.kaufda.de
+0.0.0.0 trackingapi.meinprospekt.de
 0.0.0.0 transfer.asit.services
 0.0.0.0 transfer.axelspringer.de
 0.0.0.0 tv.welt.de
@@ -1733,4 +1737,3 @@
 0.0.0.0 ws-secure-cons.axelspringer.de
 0.0.0.0 ws-secure-uat.axelspringer.de
 0.0.0.0 ws-secure.axelspringer.de
-0.0.0.0 backend.mediaimpact.de
