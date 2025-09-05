@@ -1,3 +1,6 @@
+! Title: Axel Springer Blocklist
+! Expires: 14 days 
+
 100-volks-aktion.de
 1414.de
 25-jahre-ohne-mauer.de
