@@ -1,5 +1,4 @@
 # This file contains host names, where the generate script ./generate_hostnames.py doensn't add a second entry with "www.".
-
 100.bild.de
 100euro.bild.de
 111.bild.de
@@ -110,6 +109,7 @@ fs.axelspringer.de
 gamification.upday.com
 github.axelspringer.com
 gutscheine.computerbild.de
+icondigizine.de
 i.auto-bild.de
 i.axelspringer.de
 i.computer-bild.de
@@ -182,6 +182,7 @@ styles.finanzen.net
 swerve.autobild.de
 swerve.bild.de
 teams.axelspringer.de
+telegraph.co.uk
 tmssl.akamized.net
 trackingapi.bonial.fr
 trackingapi.kaufda.de

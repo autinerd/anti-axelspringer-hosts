@@ -876,6 +876,8 @@
 0.0.0.0 www.hubber.me
 0.0.0.0 hy.co
 0.0.0.0 www.hy.co
+0.0.0.0 icondigizine.de
+0.0.0.0 www.icondigizine.de
 0.0.0.0 iconist.de
 0.0.0.0 www.iconist.de
 0.0.0.0 idealo.at
@@ -1242,6 +1244,8 @@
 0.0.0.0 www.tecoloco.com
 0.0.0.0 tele.ch
 0.0.0.0 www.tele.ch
+0.0.0.0 telegraph.co.uk
+0.0.0.0 www.telegraph.co.uk
 0.0.0.0 testbild.de
 0.0.0.0 www.testbild.de
 0.0.0.0 testgarage.com
@@ -1649,6 +1653,7 @@
 0.0.0.0 gamification.upday.com
 0.0.0.0 github.axelspringer.com
 0.0.0.0 gutscheine.computerbild.de
+0.0.0.0 icondigizine.de
 0.0.0.0 i.auto-bild.de
 0.0.0.0 i.axelspringer.de
 0.0.0.0 i.computer-bild.de
@@ -1721,6 +1726,7 @@
 0.0.0.0 swerve.autobild.de
 0.0.0.0 swerve.bild.de
 0.0.0.0 teams.axelspringer.de
+0.0.0.0 telegraph.co.uk
 0.0.0.0 tmssl.akamized.net
 0.0.0.0 trackingapi.bonial.fr
 0.0.0.0 trackingapi.kaufda.de

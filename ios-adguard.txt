@@ -436,6 +436,7 @@ hotelcareer.de
 housell.com
 hubber.me
 hy.co
+icondigizine.de
 iconist.de
 idealo.at
 idealo.co.uk
@@ -619,6 +620,7 @@ techbook-magazine.com
 techbook.de
 tecoloco.com
 tele.ch
+telegraph.co.uk
 testbild.de
 testgarage.com
 testundtuning.de
@@ -878,6 +880,7 @@ fs.axelspringer.de
 gamification.upday.com
 github.axelspringer.com
 gutscheine.computerbild.de
+icondigizine.de
 i.auto-bild.de
 i.axelspringer.de
 i.computer-bild.de
@@ -950,6 +953,7 @@ styles.finanzen.net
 swerve.autobild.de
 swerve.bild.de
 teams.axelspringer.de
+telegraph.co.uk
 tmssl.akamized.net
 trackingapi.bonial.fr
 trackingapi.kaufda.de
