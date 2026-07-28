@@ -1,8 +1,12 @@
+> [!IMPORTANT]
+> The project has moved to [Codeberg](https://codeberg.org/autinerd/anti-axelspringer-hosts)
+
+
 English version [below](#anti-axel-springer-hosts-file)
 
 # Anti-Axel-Springer-Hostsdatei
 
-Diese Datei blockiert alle Verbindungen zu Webseiten, die entweder dem Axel Springer Verlag gehören oder eine Verbindung mit diesem haben
+Diese Datei blockiert alle Verbindungen zu Webseiten, die entweder dem Axel Springer Verlag gehören oder eine Verbindung mit diesem haben.
 
 ## Installation
 
@@ -16,7 +20,7 @@ Diese Datei blockiert alle Verbindungen zu Webseiten, die entweder dem Axel Spri
 
 ### uBlock Origin und andere Werbeblocker-Addons
 
-- Füge `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` zu den benutzerdefinierten Filterlisten hinzu
+- Füge `https://codeberg.org/autinerd/anti-axelspringer-hosts/raw/branch/main/axelspringer-hosts` zu den benutzerdefinierten Filterlisten hinzu
 
 ### Android (mit Rootrechten)
 
@@ -44,14 +48,14 @@ Nicht vergessen den Content Blocker für Safari zu aktivieren
   - importiere diese Datei in die User Rules
 
 #### Mit Subscription
-  - Füge `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` zu den benutzerdefinierten Filterlisten hinzu
+  - Füge `https://codeberg.org/autinerd/anti-axelspringer-hosts/raw/branch/main/axelspringer-hosts` zu den benutzerdefinierten Filterlisten hinzu
 
 
 ## Unterstützen
 
-Wenn Sie eine Domain finden, die nicht auf der Liste ist, aber zu Axel Springer gehört oder aber eine Domain, die nicht zu Axel Springer gehört aber auf der Liste ist, öffnen Sie einfach ein Issue oder ein Pull Request.
+Wenn du eine Domain findest, die nicht auf der Liste ist, aber zu Axel Springer gehört oder aber eine Domain, die nicht zu Axel Springer gehört aber auf der Liste ist, öffne einfach ein Issue oder ein Pull Request.
 
-Beachten Sie, dass Domains, die auch mit "www." verfügbar sind (wie b\*\*d.de -> www.b\*\*d.de), in die Datei `www-hostnames` gehören, andere in die `hostnames`.
+Beachte, dass Domains, die auch mit "www." verfügbar sind (wie b\*\*d.de -> www.b\*\*d.de), in die Datei `www-hostnames` gehören, andere in die `hostnames`.
 
 Bei Pull Requests: Nach dem Hinzufügen von Domains bitte `python ./generate_hostfile.py` ausführen.
 
@@ -73,7 +77,7 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 
 ### uBlock Origin and other adblock add-ons
 
-- Add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to the custom filter lists.
+- Add `https://codeberg.org/autinerd/anti-axelspringer-hosts/raw/branch/main/axelspringer-hosts` to the custom filter lists.
 
 ### Android (with root access)
 
@@ -85,11 +89,11 @@ This file blocks all connections to sites which are from Axel Springer Verlag or
 
 ### Pi-hole
 
-- In your [Pi-hole](https://pi-hole.net/) admin interface under "Group management" > "Adlists" add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to your blocklists and update Gravity.
+- In your [Pi-hole](https://pi-hole.net/) admin interface under "Group management" > "Adlists" add `https://codeberg.org/autinerd/anti-axelspringer-hosts/raw/branch/main/axelspringer-hosts` to your blocklists and update Gravity.
 
 ### AdGuard Home
 
-- In your AdGuard Home web interface add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` as a new blocklist at "Filter" > "DNS blocklist"
+- In your AdGuard Home web interface add `https://codeberg.org/autinerd/anti-axelspringer-hosts/raw/branch/main/axelspringer-hosts` as a new blocklist at "Filter" > "DNS blocklist"
 
 ### iOS ([AdGuard](https://apps.apple.com/de/app/adguard-adblock-privacy/id1047223162))
 
@@ -97,11 +101,11 @@ Don't forget to activate the Content Blocker for Safari
 
 #### without subscription
   - open the AdGuard settings -> Safari Protection -> User rules
-  - download [ios-adguard.txt](https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/ios-adguard.txt)
+  - download [ios-adguard.txt](https://codeberg.org/autinerd/anti-axelspringer-hosts/raw/branch/main/ios-adguard.txt)
   - import this file to the User Rules
 
 #### with Subscription
-  - Add `https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts` to the custom filter lists.
+  - Add `https://codeberg.org/autinerd/anti-axelspringer-hosts/raw/branch/main/axelspringer-hosts` to the custom filter lists.
 
 
 ## Contributing
