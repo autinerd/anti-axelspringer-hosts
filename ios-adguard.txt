@@ -296,6 +296,7 @@ cbspiele.com
 cbspiele.de
 cbspiele.eu
 cbspiele.info
+clever-tanken.de
 cobi.de
 cobisp.de
 cobispiele.eu
@@ -394,8 +395,6 @@ fernsehenfuerdeutschland.de
 ffh.de
 ffn.de
 finanz.ru
-finanzen.ch
-finanzen.net
 fitbit-volks-fitness-uhr.de
 fitbook-magazine.com
 fitbook.de
@@ -436,6 +435,7 @@ hotelcareer.de
 housell.com
 hubber.me
 hy.co
+icondigizine.de
 iconist.de
 idealo.at
 idealo.co.uk
@@ -619,6 +619,7 @@ techbook-magazine.com
 techbook.de
 tecoloco.com
 tele.ch
+telegraph.co.uk
 testbild.de
 testgarage.com
 testundtuning.de
