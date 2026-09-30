@@ -15,7 +15,6 @@ antenne.de
 antenne1.de
 appcast.io
 artcollector-magazin.de
-arte-magazin.de
 artinvestor.de
 as-corporate-solutions.de
 as-konzerneinkauf.de
@@ -560,7 +559,6 @@ profi-crafter.de
 profis.de
 protocol.com
 przegladsportowy.pl
-qwant.com
 radiohamburg.de
 radionrw.de
 raetsel1.de
